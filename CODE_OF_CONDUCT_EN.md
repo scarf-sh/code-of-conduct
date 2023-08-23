@@ -33,6 +33,7 @@ Examples of unacceptable behavior include:
 * Public or private harassment
 * Publishing others' private information, such as a physical or email
   address, without their explicit permission
+* Our open source community strictly prohibits any affiliation with hate groups, hate speech, discrimination, harassment, and commits to fostering an inclusive, respectful, and safe environment for all participants. (_See [Anti-Hate Group Policy](./ANTI_HATE_GROUP_POLICY_EN.md)_)
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
